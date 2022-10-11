@@ -1,0 +1,12 @@
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+html {
+    background-color: #81bdf6;
+  }
